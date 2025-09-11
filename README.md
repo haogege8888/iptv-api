@@ -6,19 +6,19 @@
 <div align="center">一个可高度自定义的IPTV接口更新项目📺，自定义频道菜单，自动获取直播源，测速验效后生成可用的结果，可实现『✨秒播级体验🚀』</div>
 <br>
 <p align="center">
-  <a href="https://github.com/Guovin/iptv-api/releases/latest">
+  <a href="https://github.com/haogege8888/iptv-api/releases/latest">
     <img src="https://img.shields.io/github/v/release/guovin/iptv-api" />
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-%20%3D%203.13-47c219" />
   </a>
-  <a href="https://github.com/Guovin/iptv-api/releases/latest">
+  <a href="https://github.com/haogege8888/iptv-api/releases/latest">
     <img src="https://img.shields.io/github/downloads/guovin/iptv-api/total" />
   </a>
   <a href="https://hub.docker.com/repository/docker/guovern/iptv-api">
     <img src="https://img.shields.io/docker/pulls/guovern/iptv-api" />
   </a>
-  <a href="https://github.com/Guovin/iptv-api/fork">
+  <a href="https://github.com/haogege8888/iptv-api/fork">
     <img src="https://img.shields.io/github/forks/guovin/iptv-api" />
   </a>
 </p>
@@ -27,7 +27,7 @@
 
 🎉💻 [IPTV-Web](https://github.com/Guovin/iptv-web)：IPTV电视直播源管理平台，支持在线播放等功能，开发中...
 
-💖 [频道别名收集计划](https://github.com/Guovin/iptv-api/discussions/1082)
+💖 [频道别名收集计划](https://github.com/haogege8888/iptv-api/discussions/1082)
 
 - [✅ 核心特性](#核心特性)
 - [🔗 最新结果](#最新结果)
@@ -93,25 +93,25 @@
 - 默认
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://raw.githubusercontent.com/haogege8888/iptv-api/refs/heads/master/output/result.m3u
 ```
 
 - IPv6
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
+https://raw.githubusercontent.com/haogege8888/iptv-api/refs/heads/master/output/ipv6/result.m3u
 ```
 
 - IPv4
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+https://raw.githubusercontent.com/haogege8888/iptv-api/refs/heads/master/output/ipv4/result.m3u
 ```
 
 ### 点播源
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
+https://raw.githubusercontent.com/haogege8888/iptv-api/refs/heads/master/source.json
 ```
 
 ## 配置
@@ -210,7 +210,7 @@ pipenv run service
 
 ### GUI 软件
 
-1. 下载[IPTV-API 更新软件](https://github.com/Guovin/iptv-api/releases)，打开软件，点击启动，即可进行更新
+1. 下载[IPTV-API 更新软件](https://github.com/haogege8888/iptv-api/releases)，打开软件，点击启动，即可进行更新
 
 2. 或者在项目目录下运行以下命令，即可打开 GUI 软件：
 
